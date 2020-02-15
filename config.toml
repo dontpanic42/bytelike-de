@@ -3,6 +3,8 @@ languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 
+uglyurls = true
+
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
