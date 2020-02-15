@@ -6,10 +6,11 @@ cover = ""
 tags = ["Blog"]
 keywords = ["Blog", "Coding"]
 description = ""
-showFullContent = true
+showFullContent = false
 +++
 This is my new site. It's been created mostly because I wanted to play around with AWS, Github Actions and the Hugo framework.
 
 By the way, it's open source:
 
 - [Infrastructure Scripts Repo](https://github.com/dontpanic42/bytelike-de-infra)
+- [Site Content Repo](https://github.com/dontpanic42/bytelike-de)
