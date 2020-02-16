@@ -36,9 +36,9 @@ My domain name was registered through AWS, so I can just use [Route 53](https://
 free when you use [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/), so this was a no-brainer.
 
 One caveat when using CloudFront with Certificate Manager is that when you use another Region then `us-east-1`,
-you won't be able to select your certificate when setting up CloudFront. So make sure your certificates
-are always created in N. Virigina (`us-east-1`), even when CloudFront and the rest of your setup lives 
-else where (`eu-central-1` in my case).
+you won't be able to select your certificate while setting up CloudFront. So make sure your certificates
+are always created in N. Virigina (`us-east-1`), even when your CloudFront distribution and the rest of your 
+setup lives else where (`eu-central-1` in my case).
 
 Keep your eyes open for the next posts, in which we will discuss the technical details of implementing our
 architecture as-code with Terraform, automating our setup with Github Actions and create a simple site with Hugo.
