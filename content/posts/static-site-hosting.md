@@ -42,3 +42,6 @@ setup lives else where (`eu-central-1` in my case).
 
 Keep your eyes open for the next posts, in which we will discuss the technical details of implementing our
 architecture as-code with Terraform, automating our setup with Github Actions and create a simple site with Hugo.
+
+- Part 1: Introduction
+- [Part 2: Infrastructure-as-Code and Terraform]({{< ref "/posts/static-site-hosting-pt2.md">}})
