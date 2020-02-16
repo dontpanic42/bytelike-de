@@ -4,7 +4,7 @@ date = 2020-02-15T22:40:00+01:00
 author = "Daniel"
 cover = ""
 tags = ["Blog"]
-keywords = ["Blog", "Coding"]
+keywords = ["Blog", "Tech"]
 description = ""
 showFullContent = false
 +++

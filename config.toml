@@ -41,6 +41,7 @@ uglyurls = true
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
+    staticDir = "static"
 
     [languages.en.params.logo]
       logoText = "ByteLike"
