@@ -3,7 +3,7 @@ title = "Hosting a static site on AWS S3 (Part 2)"
 date = 2020-02-16T10:32:58.029Z
 author = "Daniel"
 cover = ""
-tags = ["Tech", "AWS", "Hosting on S3", "Terraform", "Infrastructure-as-Code"]
+tags = []
 keywords = ["Tech", "AWS", "Hosting on S3", "Terraform", "Infrastructure-as-Code"]
 description = "In the second part of the series, we will look at the Infrastructure-as-Code paradigm, why it is a good idea and how to use terraform to implement it."
 showFullContent = false
@@ -99,3 +99,4 @@ Next time we will have a look into the terraform code that makes up the infrastr
 
 - [Part 1: Introduction]({{< ref "/posts/static-site-hosting.md">}})
 - Part 2: Infrastructure-as-Code and Terraform
+- [Part 3: Project Structure and Modules]({{< ref "/posts/static-site-hosting-pt3.md">}})

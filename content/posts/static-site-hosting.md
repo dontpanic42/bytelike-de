@@ -3,7 +3,7 @@ title = "Hosting a static site on AWS S3"
 date = 2020-02-16T08:32:58.029Z
 author = "Daniel"
 cover = ""
-tags = ["Tech", "AWS", "Hosting on S3", "S3", "CloudFront", "ACM", "Route 53"]
+tags = []
 keywords = ["Tech", "AWS", "Hosting", "S3", "CloudFront", "ACM", "Route 53"]
 description = "Let's have a look at how we can host a simple static website (like this blog) on AWS S3."
 showFullContent = false
@@ -45,3 +45,4 @@ architecture as-code with Terraform, automating our setup with Github Actions an
 
 - Part 1: Introduction
 - [Part 2: Infrastructure-as-Code and Terraform]({{< ref "/posts/static-site-hosting-pt2.md">}})
+- [Part 3: Project Structure and Modules]({{< ref "/posts/static-site-hosting-pt3.md">}})
